@@ -30,7 +30,7 @@ int main (void)
 		
 		for (j = i + 1; j < 4; j++)
 		{
-			printf (" %d", matriz[i][j] = 0) ;
+			printf (" %d", matriz[i][j]) ;
 		}
 	}
 	
